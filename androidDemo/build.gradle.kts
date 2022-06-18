@@ -11,7 +11,7 @@ val java_version = JavaVersion.VERSION_11
 
 dependencies {
     implementation(project(":common"))
-    implementation(project(":qnotified_style"))
+    implementation(project(":mainStyle"))
 }
 
 android {
