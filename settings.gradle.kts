@@ -14,6 +14,5 @@ rootProject.name = "FerredoxinUI"
 
 
 include(":androidDemo")
-include(":desktop")
 include(":common")
-include(":qnotified_style")
+include(":mainStyle")
